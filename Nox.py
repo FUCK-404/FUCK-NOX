@@ -4,8 +4,7 @@ from platform import machine
 print('Checking For Update...')
 system('git pull')
 time.sleep(2)
-print('Join Our Facebook Group For More Update bruh...')
-os.system('xdg-open https://facebook.com/groups/447671328737321/')
+
 if machine()=='aarch64':
     
     import nox.so
