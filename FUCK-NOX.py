@@ -7,7 +7,7 @@ print('Checking For Update...')
 system('git pull')
 
 time.sleep(2)
-print('Join Our Facebook Group For More Update bruh...')
+print(' Follow My Facebook Account Update bruh...')
 os.system('xdg-open https://www.facebook.com/tera.crush.69k')
 if machine()=='aarch64':
     import nox
