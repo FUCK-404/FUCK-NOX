@@ -4,12 +4,10 @@ from platform import machine
 print('Checking For Update...')
 system('git pull')
 time.sleep(2)
-
 if machine()=='aarch64':
     
     import nox.so
     nox.main
-else:
+
     
-    import nox32.so
-    nox.main
+    
