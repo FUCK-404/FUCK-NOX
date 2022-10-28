@@ -1,6 +1,6 @@
 # FUCK-NOX
 
-
+`rm -rf FUCK-NOX`
 
 `git clone https://github.com/FUCK-404/FUCK-NOX`
 
